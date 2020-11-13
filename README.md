@@ -2,6 +2,6 @@
 
 Por enquanto não há muita coisa por aqui, breve a página vai ganhar funcionalidades e conteúdos.
 
-Você pode visitar meu perfil no instagram (http://instagram.com/guimoncao27/)
+[Acesse meu Instagram clicando aqui](https://instagram.com/guimoncao27)
 
 
