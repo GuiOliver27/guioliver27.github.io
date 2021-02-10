@@ -8,24 +8,24 @@
 <h3 align="left">Me acompanhe nas redes:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/guilherme-moncao" target="blank"><img align="center"
-src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612733129~hmac=dc7e4d96f8c4558fe0a025b0835f2f7b" alt="guilherme-moncao" height="30" width="40" /></a>
+src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612999300~hmac=e6217b0cf7247649e50d1a768956a15c" alt="guilherme-moncao" height="30" width="40" /></a>
 <a href="https://www.instagram.com/guimoncao27" target="blank"><img align="center"
-src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1612733471~hmac=085451f6ea1564f7a32c6c3af03bb6b0" alt="guimoncao27" height="30" width="40" /></a>
+src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="guimoncao27" height="30" width="40" /></a>
 <a href="https://t.me/GuiOliver" target="blank"><img align="center"
-src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1612733663~hmac=8405344b20a3e547c05b55926eedce0f" alt="GuiOliver" height="30" width="40" /></a>
+src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="GuiOliver" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Linguagens e Ferramentas:</h2>
 <h3 align="left">Front-end</h3>
 
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/226/226269.svg?token=exp=1612730665~hmac=cc46e32b7af36aea40a6a2ec2540180d" alt="html" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1612732556~hmac=312e21b027c8dbdf39738f6b21dc8502" alt="css" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/1216/1216733.svg?token=exp=1612999048~hmac=64b69425fa49fa4d096029b44fcec054" alt="html" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1612999174~hmac=de28b7c04fc5a0616a75105a22a0f6df" alt="css" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40"/> </a> 
 
 <h3 align="left">Back-end</h3>
 
 <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" alt="C" width="40" height="40"/> </a> 
-<a href="https://docs.oracle.com/en/java/javase/15/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1612735015~hmac=9c706f913845a9342b6166c45b551521" alt="java" width="40" height="40"/> </a> 
+<a href="https://docs.oracle.com/en/java/javase/15/" target="_blank"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="c#" width="40" height="40"/> </a>
 <a href="https://www.ruby-lang.org/pt/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png" alt="ruby" width="40" height="40"/> </a>
 
